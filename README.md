@@ -53,4 +53,9 @@ This system is ideal for:
 - 📬 Improve communication between requesters and support staff
 - 🔄 Future-proof process for scale and onboarding
 
+---
+
+## Setup Guide
+
+- The complete Setup Guide is available in the wiki section
 
