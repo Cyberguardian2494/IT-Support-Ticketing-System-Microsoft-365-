@@ -57,5 +57,5 @@ This system is ideal for:
 
 ## Setup Guide
 
-- The complete Setup Guide is available in the wiki section
+- The complete Setup Guide is available in the [wiki section](https://github.com/Cyberguardian2494/IT-Support-Ticketing-System-Microsoft-365-.wiki.git)
 
